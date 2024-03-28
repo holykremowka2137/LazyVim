@@ -24,7 +24,7 @@ keyset("n", "N", "Nzzzv")
 
 keyset("n", "G", "Gzz")
 
-keyset("n", "<leader>ee", vim.cmd.Ex)
-keyset("n", "<leader>es", vim.cmd.Sex)
-keyset("n", "<leader>ev", vim.cmd.Vex)
-keyset("n", "<leader>el", vim.cmd.Lex)
+-- keyset("n", "<leader>ee", vim.cmd.Ex)
+-- keyset("n", "<leader>es", vim.cmd.Sex)
+-- keyset("n", "<leader>ev", vim.cmd.Vex)
+-- keyset("n", "<leader>el", vim.cmd.Lex)
